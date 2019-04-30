@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "767918997858",
+    "firebase_url": "https://offersapp-d37ba.firebaseio.com",
+    "project_id": "offersapp-d37ba",
+    "storage_bucket": "offersapp-d37ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767918997858:android:557a2b627eac0abd",
+        "android_client_info": {
+          "package_name": "com.sadek.offersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767918997858-d3v019rqjs2qibrmtn5vecr98tja3a1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sadek.offersapp",
+            "certificate_hash": "4b477c84a7497480b4fdf6e1922de1d6494bd5ee"
+          }
+        },
+        {
+          "client_id": "767918997858-un2am6hap1nereofuebfap804rfd4758.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwzBP__u388igAOEqebpRNz01Ioi7qzdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767918997858-un2am6hap1nereofuebfap804rfd4758.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
